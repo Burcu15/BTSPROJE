@@ -8,4 +8,4 @@ XXX kütüphanesi İle birlikte Veri Manipulasyonu Sağlandı
 
 <h2>Ekran Gifi</h2>
 
-![](btsekran.gif)
+![](bootsgif.gif)
